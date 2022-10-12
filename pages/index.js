@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Marcolongo Digital Intelligence Test</code>
+          Marcolongo Digital Intelligence Test </code>
         </p>
       </main>
 
