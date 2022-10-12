@@ -13,9 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Marcolongo Digital Intelligence Test</code>
         </p>
       </main>
+    <div id="Inizio"> Inizio </div>
 
       <Footer />
     </div>
