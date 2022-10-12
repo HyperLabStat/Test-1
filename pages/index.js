@@ -16,7 +16,6 @@ export default function Home() {
           Marcolongo Digital Intelligence Test</code>
         </p>
       </main>
-    <div id="Inizio"> Inizio </div>
 
       <Footer />
     </div>
